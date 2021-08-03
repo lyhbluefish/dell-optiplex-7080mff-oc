@@ -2,7 +2,7 @@
 ### 7080mff官方配置EFI
 
 - cpu:i5 10500t
-- wifi: ax201
+- wifi: ax201 071:BCM94360Z4
 - ssd:rd20
 
 参考资料：
